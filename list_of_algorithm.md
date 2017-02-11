@@ -36,7 +36,7 @@ Heap Sort<br>
 Linear Search<br>
 Binary Search<br>
 Ternary Search<br>
-Dynamic Programming:<br>
+<b>Dynamic Programming:</b><br>
 <br>
 Rod Cutting<br>
 Maximum Sum (1D, 2D)<br>
